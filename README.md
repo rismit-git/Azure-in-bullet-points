@@ -1,4 +1,4 @@
-html# Azure in bulletpoints
+# Azure in bulletpoints
 
 - This repo contains my study notes for different Azure exams.
 - The notes are comprehensive and written with goal of covering all exam areas.
