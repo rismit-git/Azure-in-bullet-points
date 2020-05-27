@@ -30,9 +30,9 @@
 ### [AZ-103](https://www.microsoft.com/en-us/learning/exam-az-103.aspx): Microsoft Azure Administrator
 
 1. Management
-   1. [Azure Cloud Shell](AZ-103%20Microsoft%20Azure%20Administrator/1.1.%20Management%20-%20Azure%20Cloud%20Shell.md)
-   2. [Resources & Costs](AZ-103%20Microsoft%20Azure%20Administrator/1.2.%20Management%20-%20Resources%20&%20Costs.md)
-   3. [Resource Groups](AZ-103%20Microsoft%20Azure%20Administrator/1.3.%20Management%20-%20Resource%20Groups.md)
+   1. [Azure Cloud Shell](AZ-103%20Microsoft%20Azure%20Administrator/1.1.%20Management%20-%20Azure%20Cloud%20Shell.html)
+   2. [Resources & Costs](AZ-103%20Microsoft%20Azure%20Administrator/1.2.%20Management%20-%20Resources%20&%20Costs.html)
+   3. [Resource Groups](AZ-103%20Microsoft%20Azure%20Administrator/1.3.%20Management%20-%20Resource%20Groups.html)
 2. Governence
    1. [Roles](AZ-103%20Microsoft%20Azure%20Administrator/2.1.%20Governence%20-%20Roles.md)
    2. [Azure AD](AZ-103%20Microsoft%20Azure%20Administrator/2.2.%20Governence%20-%20Azure%20AD.md)
