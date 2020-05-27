@@ -1,10 +1,12 @@
-# Azure in bulletpoints
+html# Azure in bulletpoints
 
 - This repo contains my study notes for different Azure exams.
 - The notes are comprehensive and written with goal of covering all exam areas.
-  - I passed all of the exams with these notes.
+  - All credits go to Undergroundwires for making this guide.
+  - I have only forked it to make my own remarks and to learn github.
+  - HTML version: https://rismit-git.github.io/Azure-in-bullet-points/
 - Good luck & enjoy studying! ☕
-- ✨ Contributions of any kind are welcome!
+
 
 ## Symbols
 
@@ -62,59 +64,59 @@
 
 ### [AZ-300](https://www.microsoft.com/en-us/learning/exam-az-300.aspx): Microsoft Azure Architect Technologies
 
-1. [Azure basics](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/0.%20Azure%20basics.md)
-2. [Developing and Configuring Infrastructure](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/1.%20Developing%20and%20Configuring%20Infrastructure.md)
-3. [Implementing Workloads and Security](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/2.%20Implementing%20Workloads%20and%20Security.md)
-4. [Create and Deploy Apps](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/3.%20Create%20and%20Deploy%20Apps.md)
-5. [Implement Authentication and Secure Data](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/4.%20Implement%20Authentication%20and%20Secure%20Data.md)
-6. [Developing for the Cloud](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/5.%20Developing%20for%20the%20Cloud.md)
-7. [Understanding Cloud Architect Technology Solutions](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/6.%20Understanding%20Cloud%20Architect%20Technology%20Solutions.md)
+1. [Azure basics](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/0.%20Azure%20basics.html)
+2. [Developing and Configuring Infrastructure](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/1.%20Developing%20and%20Configuring%20Infrastructure.html)
+3. [Implementing Workloads and Security](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/2.%20Implementing%20Workloads%20and%20Security.html)
+4. [Create and Deploy Apps](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/3.%20Create%20and%20Deploy%20Apps.html)
+5. [Implement Authentication and Secure Data](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/4.%20Implement%20Authentication%20and%20Secure%20Data.html)
+6. [Developing for the Cloud](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/5.%20Developing%20for%20the%20Cloud.html)
+7. [Understanding Cloud Architect Technology Solutions](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/6.%20Understanding%20Cloud%20Architect%20Technology%20Solutions.html)
 
 [↑](#content)
 
 ### [AZ-301](https://www.microsoft.com/en-us/learning/exam-az-301.aspx): Microsoft Azure Architect Design
 
-1. [Designing for Identity and Security](AZ-301%20Microsoft%20Azure%20Architect%20Design/1.%20Designing%20for%20Identity%20and%20Security.md)
-2. [Designing a Data Platform Solution](AZ-301%20Microsoft%20Azure%20Architect%20Design/2.%20Designing%20a%20Data%20Platform%20Solution.md)
-3. [Designing for Deployment, Migration and Integration](AZ-301%20Microsoft%20Azure%20Architect%20Design/3.%20Designing%20for%20Deployment,%20Migration%20and%20Integration.md)
-4. [Designing an Infrastructure Strategy](AZ-301%20Microsoft%20Azure%20Architect%20Design/4.%20Designing%20an%20Infrastructure%20Strategy.md)
+1. [Designing for Identity and Security](AZ-301%20Microsoft%20Azure%20Architect%20Design/1.%20Designing%20for%20Identity%20and%20Security.html)
+2. [Designing a Data Platform Solution](AZ-301%20Microsoft%20Azure%20Architect%20Design/2.%20Designing%20a%20Data%20Platform%20Solution.html)
+3. [Designing for Deployment, Migration and Integration](AZ-301%20Microsoft%20Azure%20Architect%20Design/3.%20Designing%20for%20Deployment,%20Migration%20and%20Integration.html)
+4. [Designing an Infrastructure Strategy](AZ-301%20Microsoft%20Azure%20Architect%20Design/4.%20Designing%20an%20Infrastructure%20Strategy.html)
 
 [↑](#content)
 
 ### [AZ-400](https://www.microsoft.com/en-us/learning/exam-az-400.aspx): Designing and Implementing Microsoft DevOps Solutions
 
-1. [Introduction](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/1.%20Introduction.md)
-   1. [Design a DevOps Strategy](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/1.1.%20Design%20a%20DevOps%20Strategy.md)
-   2. [Common tools for DevOps](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/1.2.%20Common%20tools%20for%20DevOps.md)
-2. [Azure DevOps Overview](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/2.%20Azure%20DevOps%20Overview.md)
-   1. [Migrations](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/2.1.%20Migrations.md)
-3. [Agile work management](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/3.%20Agile%20work%20management.md)
-   1. [Azure Boards](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/3.1.%20Azure%20Boards.md)
+1. [Introduction](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/1.%20Introduction.html)
+   1. [Design a DevOps Strategy](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/1.1.%20Design%20a%20DevOps%20Strategy.html)
+   2. [Common tools for DevOps](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/1.2.%20Common%20tools%20for%20DevOps.html)
+2. [Azure DevOps Overview](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/2.%20Azure%20DevOps%20Overview.html)
+   1. [Migrations](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/2.1.%20Migrations.html)
+3. [Agile work management](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/3.%20Agile%20work%20management.html)
+   1. [Azure Boards](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/3.1.%20Azure%20Boards.html)
 4. Continuous Testing
-   1. [Choosing Test and Work Management Tools](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/4.1.%20Continuous%20Testing%20-%20Choosing%20Test%20and%20Work%20Management%20Tools.md)
-   2. [Azure Test Plans](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/4.2.%20Continuous%20Testing%20-%20Azure%20Test%20Plans.md)
-5. [Continuous Feedback](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/5.%20Continuous%20Feedback.md)
-   1. [Azure Monitor](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/5.1.%20Azure%20Monitor.md)
-6. [Package management](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/6.%20Package%20Management.md)
-   1. [Azure Artifacts](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/6.1.%20Azure%20Artifacts.md)
-7. [Continuous Integration & Continuous Delivery](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/7.%20Continuous%20Integration%20&%20Continuous%20Delivery.md)
-   1. [Deployment Patterns](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/7.1.%20Deployment%20Patterns.md)
-   2. [Azure Pipelines](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/7.2.%20Azure%20Pipelines.md)
-      1. [Container Agents](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/7.2.1.%20Azure%20Pipelines%20-%20Container%20Agents.md)
-      2. [Release Pipelines](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/7.2.2.%20Azure%20Pipelines%20-%20Release%20Pipelines.md)
-      3. [DevTest Labs](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/7.2.3.%20Azure%20Pipelines%20-%20DevTest%20Labs.md)
-   3. [Jenkins](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/7.3.%20Jenkins.md)
-   4. [SonarQube](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/7.4.%20SonarQube.md)
-8. [DevSecOps](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/8.%20DevSecOps.md)
-   1. [Azure Key Vault](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/8.1.%20Azure%20Key%20Vault.md)
-9. [Source code version control](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/9.%20Source%20code%20version%20control.md)
-    1. [Git](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/9.1.%20Git.md)
-    2. [Pull request strategies](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/9.2.%20Pull%20request%20strategies.md)
-    3. [Azure Repos](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/9.3.%20Azure%20Repos.md)
-10. [Containers](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/10.%20Containers.md)
-    1. [Azure Container Registry](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/10.1.%20Azure%20Container%20Registry.md)
-    2. [Azure Kubernetes Service](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/10.2.%20Azure%20Kubernetes%20Service.md)
-11. [Mobile DevOps (Visual Studio App Center)](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/11.%20Mobile%20DevOps%20(Visual%20Studio%20App%20Center).md)
-12. [Infrastructure as code](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/12.%20Infrastructure%20as%20code.md)
-    1. [ARM templates](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/12.1.%20ARM%20templates.md)
-13. [Configuration as Code (PowerShell DSC & Azure Automation & Custom Script)](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/13.%20Configuration%20as%20Code%20(PowerShell%20DSC%20&%20Azure%20Automation%20&%20Custom%20Script).md)
+   1. [Choosing Test and Work Management Tools](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/4.1.%20Continuous%20Testing%20-%20Choosing%20Test%20and%20Work%20Management%20Tools.html)
+   2. [Azure Test Plans](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/4.2.%20Continuous%20Testing%20-%20Azure%20Test%20Plans.html)
+5. [Continuous Feedback](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/5.%20Continuous%20Feedback.html)
+   1. [Azure Monitor](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/5.1.%20Azure%20Monitor.html)
+6. [Package management](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/6.%20Package%20Management.html)
+   1. [Azure Artifacts](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/6.1.%20Azure%20Artifacts.html)
+7. [Continuous Integration & Continuous Delivery](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/7.%20Continuous%20Integration%20&%20Continuous%20Delivery.html)
+   1. [Deployment Patterns](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/7.1.%20Deployment%20Patterns.html)
+   2. [Azure Pipelines](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/7.2.%20Azure%20Pipelines.html)
+      1. [Container Agents](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/7.2.1.%20Azure%20Pipelines%20-%20Container%20Agents.html)
+      2. [Release Pipelines](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/7.2.2.%20Azure%20Pipelines%20-%20Release%20Pipelines.html)
+      3. [DevTest Labs](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/7.2.3.%20Azure%20Pipelines%20-%20DevTest%20Labs.html)
+   3. [Jenkins](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/7.3.%20Jenkins.html)
+   4. [SonarQube](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/7.4.%20SonarQube.html)
+8. [DevSecOps](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/8.%20DevSecOps.html)
+   1. [Azure Key Vault](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/8.1.%20Azure%20Key%20Vault.html)
+9. [Source code version control](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/9.%20Source%20code%20version%20control.html)
+    1. [Git](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/9.1.%20Git.html)
+    2. [Pull request strategies](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/9.2.%20Pull%20request%20strategies.html)
+    3. [Azure Repos](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/9.3.%20Azure%20Repos.html)
+10. [Containers](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/10.%20Containers.html)
+    1. [Azure Container Registry](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/10.1.%20Azure%20Container%20Registry.html)
+    2. [Azure Kubernetes Service](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/10.2.%20Azure%20Kubernetes%20Service.html)
+11. [Mobile DevOps (Visual Studio App Center)](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/11.%20Mobile%20DevOps%20(Visual%20Studio%20App%20Center).html)
+12. [Infrastructure as code](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/12.%20Infrastructure%20as%20code.html)
+    1. [ARM templates](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/12.1.%20ARM%20templates.html)
+13. [Configuration as Code (PowerShell DSC & Azure Automation & Custom Script)](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/13.%20Configuration%20as%20Code%20(PowerShell%20DSC%20&%20Azure%20Automation%20&%20Custom%20Script).html)
